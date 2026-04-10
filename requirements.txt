@@ -1,0 +1,11 @@
+flask
+tensorflow
+numpy
+Pillow
+streamlit
+requests
+Pillow
+mediapipe
+opencv-python-headless
+pandas
+plotly
